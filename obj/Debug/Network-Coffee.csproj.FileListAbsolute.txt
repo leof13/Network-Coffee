@@ -1,0 +1,12 @@
+D:\GitHub\Network-Coffee\bin\Debug\Network-Coffee.exe.config
+D:\GitHub\Network-Coffee\bin\Debug\Network-Coffee.exe
+D:\GitHub\Network-Coffee\bin\Debug\Network-Coffee.pdb
+D:\GitHub\Network-Coffee\obj\Debug\Network-Coffee.csprojAssemblyReference.cache
+D:\GitHub\Network-Coffee\obj\Debug\Network_Coffee.NetworkCoffee.resources
+D:\GitHub\Network-Coffee\obj\Debug\Network_Coffee.Properties.Resources.resources
+D:\GitHub\Network-Coffee\obj\Debug\Network-Coffee.csproj.GenerateResource.cache
+D:\GitHub\Network-Coffee\obj\Debug\Network-Coffee.csproj.CoreCompileInputs.cache
+D:\GitHub\Network-Coffee\obj\Debug\Network-Coffee.exe
+D:\GitHub\Network-Coffee\obj\Debug\Network-Coffee.pdb
+D:\GitHub\Network-Coffee\obj\Debug\Network_Coffee.InfoPopup.resources
+D:\GitHub\Network-Coffee\obj\Debug\Network_Coffee.SaveChanges.resources
